@@ -6,5 +6,46 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--COLOR LOGO BIZNET-->
+    <color name="BZ1">#99D7F7</color>
+    <color name="BZ2">#00A9E8</color>
+    <color name="BZ3">#0057A5</color>
+    <color name="BZ4">#25378D</color>
+    <color name="BZ5">#312783</color>
+    <color name="BZ6">#291F6C</color>
+
+    <!--COLOR LOGO BIZNET HOME-->
+    <color name="BHC1">#FDC300</color>
+    <color name="BHC2">#F6A200</color>
+    <color name="BHC3">#F07F00</color>
+    <color name="BHC4">#E74011</color>
+    <color name="BHC5">#291F6C</color>
+    <color name="BHC6">#E74011</color>
+
+    <!--COLOR LOGO BIZNET GIO-->
+    <color name="BGIO1">#A2C73B</color>
+    <color name="BGIO2">#007C34</color>
+    <color name="BGIO6">#291F6C</color>
+    <color name="BGIO7">#3AAA35</color>
+
+    <!--COLOR LOGO BIZNET WIFI-->
+    <color name="BWIFI1">#E6007E</color>
+    <color name="BWIFI2">#662483</color>
+    <color name="BWIFI6">#291F6C</color>
+    <color name="BWIFI7">#E6007E</color>
+
+    <!--COLOR LOGO BIZNET DATA CENTER-->
+    <color name="BDC1">#DADADA</color>
+    <color name="BDC2">#BDBCBC</color>
+    <color name="BDC3">#9D9D9C</color>
+    <color name="BDC4">#646363</color>
+    <color name="BDC5">#424241</color>
+    <color name="BDC6">#291F6C</color>
+    <color name="BDC7">#9D9D9C</color>
+
+
+
+
 </resources>

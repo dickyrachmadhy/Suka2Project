@@ -1,3 +1,74 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="my_view_model">My View Model</string>
+    <string name="my_recycler_view">My Recycler View</string>
+    <string name="brand_description">Brand Description</string>
+    <string name="name_brand">Name Brand</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="my_navigation">My Navigation</string>
+    <string name="my_actionbar">My Action Bar</string>
+
+    <string-array name="data_name_logos">
+        <item>Biznet Metronet</item>
+        <item>Biznet Gio Cloud</item>
+        <item>Biznet Home</item>
+        <item>Biznet IPTV</item>
+        <item>Biznet Data Center</item>
+        <item>Biznet Technovillage</item>
+        <item>Biznet Wifi</item>
+        <item>Biznet Hotspot</item>
+    </string-array>
+
+    <string-array name="data_description_logos">
+        <item>Biznet Metronet merupakan layanan Broadband Internet Super Cepat khusus untuk keperluan bisnis UKM. Dengan pilihan layanan dari 50 hingga 750 Mbps dan menggunakan jaringan Biznet Fiber, memastikan bisnis Anda akan selalu berjalan dengan lancar.
+        </item>
+        <item>Layanan GIO Cloud merupakan layanan yang ditujukan untuk para pengguna khususnya kalangan Enterprise atau Corporate untuk memenuhi kebutuhan mereka dalam hal Cloud Computing untuk menyimpan data ataupun aplikasi yang bersifat Public maupun Private
+        </item>
+        <item>Biznet Home Internet merupakan layanan Internet WiFi Ultra Cepat untuk pengguna perumahan dan apartemen dengan kecepatan koneksi mencapai 150 Mbps baik untuk download maupun upload.
+        </item>
+        <item>Biznet IPTV adalah layanan TV interaktif dengan kualitas resolusi 4K terbaik yang dapat diakses melalui jaringan The New Biznet Fiber.
+        </item>
+        <item>Biznet Data Center (BDC) memiliki &amp; mengoperasikan tiga (3) data center di Indonesia, yang berlokasi di Jakarta, Jawa Barat dan Bali. Semua pusat data mendukung operasi yang sepenuhnya redundan dengan lebih dari 7.000 meter persegi ruang lantai yang ditinggikan. BDC menawarkan layanan pusat data yang aman seperti ruang rak tertutup, ruang suite aman, dan layanan terkelola untuk mendukung kebutuhan Anda.
+        </item>
+        <item>Biznet Technovillage adalah tempat data center berteknologi tinggi &amp; modern terintegrasi yang terletak di Cimanggis, Jawa Barat-Indonesia, yang ditargetkan untuk perusahaan penelitian, telekomunikasi, media dan outsourcing untuk kantor operasi, pusat penelitian, produksi media, pusat outsourcing dan fasilitas cadangan.
+        </item>
+        <item>Biznet Wifi adalah Layanan Wi-Fi Turbo 100 Mbps GRATIS untuk pelanggan Biznet Home dan Biznet Metronet.
+        </item>
+        <item>Biznet Hotspot, Layanan Wi-Fi gratis dari Biznet kini tersedia di lebih banyak lokasi di beberapa kota di Pulau Jawa, Bali, Sumatera, dan Batam yang didukung oleh jaringan Biznet Fiber. Biznet Hotspot tersedia di lokasi dan fasilitas umum termasuk mall, coffee shop, alun-alun kota, hotel, apartemen, sekolah, pusat kebugaran dan fasilitas umum lainnya, untuk mendukung kegiatan digital masyarakat yang semakin beragam.
+        </item>
+    </string-array>
+
+    <string-array name="data_logo_brand">
+        <item>https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_metronet_logo.png</item>
+        <item>https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_giocloud_logopng.png</item>
+        <item>https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_home_logo.png</item>
+        <item>https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_iptv_logo_full_colors-01.png</item>
+        <item>https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_datacenter_logopng.png</item>
+        <item>https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_technovillage_logo.png</item>
+        <item>https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_wifi_logo.png</item>
+        <item>https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_hotspot_logo.jpg</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_home_fragment">Hello Home Fragment</string>
+    <string name="to_category">to Category</string>
+    <string name="to_profile">to Profile</string>
+    <string name="this_category">Ini adalah Fragment Category</string>
+    <string name="this_profile">Ini adalah aktiviti Profile</string>
+    <string name="category_lifestyle">Category Lifestyle</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="to_home">Kembali ke Panel Home</string>
+
+    <!--Codelab ActionBar-->
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="this_fragment">Ini adalah menu fragment Announcement</string>
+    <string name="search">Search</string>
+    <string name="menu1">Menu1</string>
+    <string name="menu_2">Menu 2</string>
 </resources>
